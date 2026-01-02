@@ -19,4 +19,4 @@ A simple, memory-safe Task Management application built with **Rust**. This proj
    ```bash
    git clone [https://github.com/ramadhan-dev-bright/rust-cli-taskmaster.git](https://github.com/ramadhan-dev-bright/rust-cli-taskmaster.git)
 ## 📸 Preview Aplikasi
-![Tampilan Aplikasi](hasil-aplikasi.png)
+![Tampilan Aplikasi](Screenshot_20260102-214624.png)
